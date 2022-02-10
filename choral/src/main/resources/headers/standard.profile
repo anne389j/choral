@@ -30,6 +30,7 @@ java/util/Iterator.chh
 java/util/List.chh
 java/util/function/Consumer.chh
 java/util/function/Function.chh
+java/util/function/BiFunction.chh
 choral/channels/BiChannel.chh
 choral/channels/BiDataChannel.chh
 choral/channels/DiChannel.chh
